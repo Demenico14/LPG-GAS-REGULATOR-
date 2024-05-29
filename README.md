@@ -74,5 +74,16 @@ The LPG Gas Leakage Detection and Mitigation System is an advanced safety soluti
 - Regularly inspect and maintain the system to prevent malfunctions.
 
 ## Conclusion
+     _   _              _   _                   _
+    | | | | ___ _   _  | |_| |__   ___ _ __ ___| |
+    | |_| |/ _ \ | | | | __| '_ \ / _ \ '__/ _ \ |
+    |  _  |  __/ |_| | | |_| | | |  __/ | |  __/_|
+    |_| |_|\___|\__, |  \__|_| |_|\___|_|  \___(_)
+                |___/
 
-The LPG Gas Leakage Detection and Mitigation System provides a robust and reliable safety net against the hazards of gas leaks. By combining automated preventive measures with real-time notifications, this system ensures maximum protection for your home and loved ones.
+    Lookin' at the source code huh?
+    Be sure to drop me a line! I'd love to chat,
+    whether it's about code, design, ducks,
+    gym, Basketball, or anything in between.
+
+    - Dominic
